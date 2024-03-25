@@ -1,0 +1,12 @@
+version: '3'
+services:
+  tensorflow:
+    build:
+      context: .
+    ports:
+      - "8888:8888"
+    volumes:
+      - ./notebook:/notebooks
+
+volumes:
+  notebook:

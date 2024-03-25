@@ -1,0 +1,19 @@
+# Core Libraries
+jupyter
+numpy
+pandas
+matplotlib
+statsmodels
+
+# Standart Libraries
+scikit-learn
+scikit-surprise
+seaborn
+scipy
+spacy
+gensim
+
+# Extra Libraries to learn
+# pyxlsb
+# plotly # to install for conda may be
+# mapbox
