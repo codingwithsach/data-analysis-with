@@ -3,7 +3,12 @@ jupyter
 numpy
 pandas
 matplotlib
+importlib-metadata
 statsmodels
+lxml
+pickleshare
+Pillow
+prompt-toolkit
 
 # Standart Libraries
 scikit-learn
@@ -13,7 +18,12 @@ scipy
 spacy
 gensim
 
+typing-extensions
+xgboost
+torch
+tensorflow
+
 # Extra Libraries to learn
-# pyxlsb
-# plotly # to install for conda may be
-# mapbox
+pyxlsb
+plotly # to install for conda may be
+mapbox
